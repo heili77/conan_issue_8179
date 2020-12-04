@@ -3,8 +3,8 @@ set -x
 conan create libH.py libH/1.1.1@
 conan create libH.py libH/1.1.2@
 
-conan create libG.py libG/1.1.1@
-conan create libG.py libG/1.1.2@
+conan create libG1.py libG/1.1.1@
+conan create libG2.py libG/1.1.2@
 
 conan create libE.py libE/1.1.1@
 conan create libE.py libE/1.1.2@
